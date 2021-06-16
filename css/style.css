@@ -169,3 +169,15 @@ img {
     border: none;
     border-bottom: 2px solid #fafafa;
 }
+.error {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.error h1 {
+    font-size: 3em;
+}
+
+.error p {
+    font-size: 1.2em;
+}
